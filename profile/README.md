@@ -1,2 +1,1 @@
 # TrustEduAI
-# Table of Contents
